@@ -1,4 +1,4 @@
-# biol550
+# The Patterns of Evolution: A Phylogenetic Analysis of Fur Pattern Evolution in Panthera
 
 ## This is the first a paragraph explaining the question/hypotheses to be addressed and its relevance
 
