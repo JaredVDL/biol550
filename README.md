@@ -7,6 +7,8 @@
 
 Using 3 to 5 regions from the mitochondrial genome, I will perform a phylogenetic analysis in order to determine the phylogeny of the Panthera genus. Once I find the proper mitochondrial sequences, I will be able to determine which phylogenetic inference would be best suited to my data. I am considering Parsimony, Maximum Likelihood, and Bayesian Inference. I will also use this phylogenetic analysis to determine divergence points, distribution across geographical regions, and patterns or processes of trait evolution. Using this evolutionary history I will be able to gain more insights on Panthera evolution and test my hypothesis of the evolution of fur pattern and color correlated to dispersal. I will also be able to determine what evolutionary mechanisms and genetic changes caused their speciation and unique fur patterns and color. The specific mitochondrial genome regions will be identified using related scientific research papers’ GenBank accession numbers.
 
+![](files/nc_astral.tre.jpg)
+
 
 References:
 Antón, M., García-Perea, R., & Turner, A. (2004). Reconstructed facial appearance of the sabretoothed felid Smilodon. Zoological Journal of the Linnean Society, 140(1), 129-141.
