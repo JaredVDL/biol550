@@ -28,11 +28,8 @@ Following the phylogenetic analysis, RStudio was employed to conduct stochastic 
 The methodology used provided a robust framework for examining the evolutionary trajectories of phenotypic traits in the genus Panthera, utilizing complete mitochondrial genomes to enhance the resolution and reliability of phylogenetic and trait evolution analyses.
 
 ## Results: 
-
-
-
-
-
+![sequence al fasta treefile](https://github.com/JaredVDL/biol550/assets/160165664/82e94a64-7e58-41a2-bb06-417f1e2193a1)
+Figure 1: Maximum likelihood Phylogenetic Tree. The tree was made in virtual Linux with iqTree. The tree has Clouded leopard as the outgroup and the first diversification of the genus belonging to the tiger (Panthera tigris). The tree is supported with high bootstrap values ranging from 98 to 100. 
 
 
 ## Discussion: 
