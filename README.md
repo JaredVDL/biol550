@@ -1,8 +1,8 @@
 # The Patterns of Evolution: A Phylogenetic Analysis of Fur Pattern Evolution in Panthera
 
-Jared Van Der Loo
-Dr. Oscar Vargas
-BIOL 550: Phylogenetic Systematics
+Jared Van Der Loo,
+Dr. Oscar Vargas,
+BIOL 550: Phylogenetic Systematics,
 May 7th, 2024
 
 ## Introduction: 
