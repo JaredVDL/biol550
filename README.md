@@ -71,13 +71,13 @@ With further research, this study could yield much more supportive and conclusiv
 
 ## Literature Cited: 
 
-Johnson, W. E., Eizirik, E., Pecon-Slattery, J., Murphy, W. J., Antunes, A., Teeling, E., and O'Brien, S. J. 2006. The Late Miocene Radiation of Modern Felidae: A Genetic Assessment. Science 311 (5757): 73-77. 
+Johnson, W. E., Eizirik, E., Pecon-Slattery, J., Murphy, W. J., Antunes, A., Teeling, E., and O'Brien, S. J. 2006. *The Late Miocene Radiation of Modern Felidae: A Genetic Assessment.* Science 311 (5757): 73-77. 
 
-Davis, B. W., Li, G., and Murphy, W. J. 2010. Supermatrix and Species Tree Methods Resolve Phylogenetic Relationships within the Big Cats, Panthera (Carnivora: Felidae). Molecular Phylogenetics and Evolution 56 (1): 64-76. 
+Davis, B. W., Li, G., and Murphy, W. J. 2010. *Supermatrix and Species Tree Methods Resolve Phylogenetic Relationships within the Big Cats, Panthera (Carnivora: Felidae).* Molecular Phylogenetics and Evolution 56 (1): 64-76. 
 
-Jaroš, Filip. 2012. The Ecological and Ethological Significance of Felid Coat Patterns (Felidae). PhD diss., Charles University in Prague. Supervised by Prof. RNDr. Stanislav Komárek. 
+Jaroš, Filip. 2012. *The Ecological and Ethological Significance of Felid Coat Patterns (Felidae).* PhD diss., Charles University in Prague. Supervised by Prof. RNDr. Stanislav Komárek. 
 
-Dr. Antón, M., García-Perea, R., and Turner, A. 2004. Reconstructed Facial Appearance of the Sabretoothed Felid Smilodon. Zoological Journal of the Linnean Society 140 (1): 129-141.
+Dr. Antón, M., García-Perea, R., and Turner, A. 2004. *Reconstructed Facial Appearance of the Sabretoothed Felid Smilodon.* Zoological Journal of the Linnean Society 140 (1): 129-141.
 
 
 
