@@ -32,11 +32,11 @@ The methodology used provided a robust framework for examining the evolutionary 
 
 Figure 1: Maximum likelihood Phylogenetic Tree. The tree was made in virtual Linux with iqTree. The tree has Clouded leopard as the outgroup and the first diversification of the genus belonging to the tiger (Panthera tigris). The tree is supported with high bootstrap values ranging from 98 to 100. 
 
-![Uploading Screenshot 2024-05-05 at 2.59.12 PM.png…]()
+<img width="877" alt="Screenshot 2024-05-05 at 2 59 12 PM" src="https://github.com/JaredVDL/biol550/assets/160165664/0b1f1894-5d62-4549-af2f-17f9924040a2">
 
 Figure 2: Stochastic Character Map of Fur Color Character States. The pie graph at each node displays what fur color the ancestor most likely had. Orange fur is depicted by an orange color, white fur is depicted by a white color, and yellow fur is depicted by a yellow color.
 
-![Uploading Screenshot 2024-05-05 at 3.07.09 PM.png…]()
+<img width="763" alt="Screenshot 2024-05-05 at 3 07 09 PM" src="https://github.com/JaredVDL/biol550/assets/160165664/0d0c1a2e-0490-41e3-ad0c-11cc77920f44">
 
 Figure 3: Stochastic Character Map of Fur Pattern Character States. The pie graph at each node displays what fur pattern the ancestor most likely had. Spotted fur is depicted by a red color, striped fur is depicted by a green color, and plain fur is depicted by a blue color.
 
